@@ -26,4 +26,7 @@ A simple Spring Boot-based REST API that provides weather information based on l
 ### Step 1: Clone the Repository
 ```bash
 git clone 
+
 cd weather-service
+
+### Yolo API edits
